@@ -1,2 +1,5 @@
 # groovy-java-githubactions
-[![Groovy ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml)
+[![Groovy ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml)  
+[![junit-jupiter Groovy ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/junit-jupiter-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/junit-jupiter-wf.yml)   
+[![spock Groovy ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/spock-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/spock-wf.yml)  
+[![testng Groovy ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/testng-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-githubactions/actions/workflows/testng-wf.yml)

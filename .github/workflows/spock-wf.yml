@@ -33,7 +33,7 @@ jobs:
           mkdir demo && cd demo
           # gradle init --project-name demo --type java-application --dsl groovy
           # gradle init --project-name demo --type java-application --dsl groovy --test-framework spock
-          # gradle init --project-name demo --type java-application --dsl groovy --test-framework spock
+          gradle init --project-name demo --type java-application --dsl groovy --test-framework spock
           # gradle init --project-name demo --type java-application --dsl groovy --test-framework testng
           echo "==================Run the application=================================================================="   
           ./gradlew run

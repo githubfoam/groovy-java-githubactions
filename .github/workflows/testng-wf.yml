@@ -34,7 +34,7 @@ jobs:
           # gradle init --project-name demo --type java-application --dsl groovy
           # gradle init --project-name demo --type java-application --dsl groovy --test-framework testng
           # gradle init --project-name demo --type java-application --dsl groovy --test-framework testng
-          # gradle init --project-name demo --type java-application --dsl groovy --test-framework testng
+          gradle init --project-name demo --type java-application --dsl groovy --test-framework testng
           echo "==================Run the application=================================================================="   
           ./gradlew run
           echo "==================Bundle the application=================================================================="              
